@@ -1,0 +1,13 @@
+.padding{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.padding1{
+	border-style: outset;
+}
+.font{
+	font-style: bold;
+}
+.color{
+	color:skyblue;
+}
